@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLinq\\SQLLinq.csproj": {}
+    "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLINQ\\SQLLINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLinq\\SQLLinq.csproj": {
+    "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLINQ\\SQLLINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLinq\\SQLLinq.csproj",
-        "projectName": "SQLLinq",
-        "projectPath": "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLinq\\SQLLinq.csproj",
+        "projectUniqueName": "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLINQ\\SQLLINQ.csproj",
+        "projectName": "SQLLINQ",
+        "projectPath": "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLINQ\\SQLLINQ.csproj",
         "packagesPath": "C:\\Users\\Roden Mark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLinq\\obj\\",
+        "outputPath": "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLINQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

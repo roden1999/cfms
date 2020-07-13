@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.0": {
-      "SQLLinq/1.0.0": {
+      "SQLLINQ/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "3.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
@@ -314,10 +314,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "SQLLinq.dll": {}
+          "SQLLINQ.dll": {}
         },
         "compile": {
-          "SQLLinq.dll": {}
+          "SQLLINQ.dll": {}
         }
       },
       "Microsoft.CSharp/4.6.0": {},
@@ -3243,7 +3243,7 @@
     }
   },
   "libraries": {
-    "SQLLinq/1.0.0": {
+    "SQLLINQ/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

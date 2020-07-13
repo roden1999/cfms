@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dh1xyuE/ecePMQNMKdStucfhhTEsjwhCCBDKiXB5JI8pZM85BrUklppOTR5xOP4bRLDl/Z4wvB/FATl+oHF7Vg==",
+  "dgSpecHash": "Xh4S2ZOmWoiIuU34rwy/EWywryn9wT9vQemuqIIK/s7sScqt8O3fbdIpHx/UhY+SpDdyNaQ/eLvkf4Ek+Va8Yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLinq\\SQLLinq.csproj",
+  "projectFilePath": "C:\\Users\\Roden Mark\\Documents\\Personal Projects\\CFMS\\SQLLINQ\\SQLLINQ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roden Mark\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Roden Mark\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",

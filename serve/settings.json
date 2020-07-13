@@ -4,7 +4,7 @@
       "DatabaseName": "Just In Case I LearnMongo"
     },
   
-    "SqlConnectionString": "Server=sql212.epizy.com;Database=epiz_26185562_XXX;Uid=epiz_26185562;Pwd=u7frBUlsBD;"
-    // "SqlConnectionString": "Server=.\\SQLEXPRESS;Database=FMS;Trusted_Connection=True;"
+    // "SqlConnectionString": "Server=sql212.epizy.com;Database=epiz_26185562_XXX;Uid=epiz_26185562;Pwd=u7frBUlsBD;"
+    "SqlConnectionString": "Server=.\\SQLEXPRESS;Database=FMS;Trusted_Connection=True;"
   
   }
