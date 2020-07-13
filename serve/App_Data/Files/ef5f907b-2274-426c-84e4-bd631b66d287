@@ -1,0 +1,3 @@
+var str = "sadasas.das.das.dasdasd.asdasd.asdasd.asdasdasd.as";
+str.slpit('.') ==   [0] sadasas,
+					[1] das

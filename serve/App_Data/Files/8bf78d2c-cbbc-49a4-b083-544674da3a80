@@ -1,0 +1,8 @@
+cd C:\Users\Roden Mark\AppData\Local\Android\Sdk\tools
+emulator -avd smartcook
+
+
+cd C:\Program Files (x86)\Google\Chrome\Application
+chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security
+
+192.168.137.1

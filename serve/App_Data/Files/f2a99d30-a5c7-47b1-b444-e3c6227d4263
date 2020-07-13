@@ -1,0 +1,3 @@
+<condition> ? true statements: false statements
+
+1==1 ? true : false;

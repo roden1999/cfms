@@ -1,0 +1,10 @@
+{
+    "MongoSettings":
+    {
+        "ConnectionString":"mongodb://127.0.0.1:27017",
+        "DatabaseName":"HRIS",
+    },
+    "SqlConnectionString": "Server=.\\SQLSERVER2017;Database=Payroll5;Trusted_Connection=False;timeout=1000;uid=sa;pwd=password01",
+    "SecretCode":"p@$$w0rd01"
+    
+}

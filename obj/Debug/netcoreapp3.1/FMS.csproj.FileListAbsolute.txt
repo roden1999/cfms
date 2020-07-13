@@ -1,0 +1,5 @@
+C:\Users\Roden Mark\Documents\Personal Projects\FMS\obj\Debug\netcoreapp3.1\FMS.csprojAssemblyReference.cache
+C:\Users\Roden Mark\Documents\Personal Projects\FMS\obj\Debug\netcoreapp3.1\FMS.csproj.CoreCompileInputs.cache
+C:\Users\Roden Mark\Documents\Personal Projects\FMS\obj\Debug\netcoreapp3.1\FMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roden Mark\Documents\Personal Projects\FMS\obj\Debug\netcoreapp3.1\FMS.AssemblyInfoInputs.cache
+C:\Users\Roden Mark\Documents\Personal Projects\FMS\obj\Debug\netcoreapp3.1\FMS.AssemblyInfo.cs
